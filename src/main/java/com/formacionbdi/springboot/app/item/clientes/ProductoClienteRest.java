@@ -1,0 +1,2 @@
+package com.formacionbdi.springboot.app.item.clientes;public interface ProductoClienteRest {
+}
