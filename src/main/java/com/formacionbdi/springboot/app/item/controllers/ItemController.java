@@ -1,8 +1,8 @@
 package com.formacionbdi.springboot.app.item.controllers;
 
 import com.formacionbdi.springboot.app.item.models.Item;
-import com.formacionbdi.springboot.app.item.models.Producto;
 import com.formacionbdi.springboot.app.item.models.service.ItemService;
+import com.formacionbdi.springboot.app.commons.models.entity.Producto;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
