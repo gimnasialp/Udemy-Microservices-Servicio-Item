@@ -8,6 +8,9 @@
         <version>2.3.12.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+	
+	
+	
     <groupId>com.formacionbdi.springboot.app.item</groupId>
     <artifactId>springboot-servicio-item</artifactId>
     <version>0.0.1-SNAPSHOT</version>
